@@ -1,0 +1,103 @@
+-@import url('https://fonts.googleapis.com/css?family=Spicy+Rice');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+h2{
+  font-family: fantasy
+  color: #fefefe;
+  font-size: 60px
+}
+header{
+  background-image:url("multimedia/pointbreak.jpg");
+  height: 500px;
+  border-radius: 300px;
+  image-orientation: center;
+
+
+
+}
+p{
+  font-family:monospace;
+  font-family: monospace;
+  color: aliceblue;
+  font-size: 26px;
+  text-align: center;
+}
+th{
+  color: white
+
+
+}
+th{
+  font-family: 'Roboto', fantasy;
+}
+tr{
+  font-family: 'Roboto', fantasy;
+  color: aliceblue
+}
+h2{
+  font-family: 'Roboto', fantasy;
+  color:aliceblue;
+  font-family: cursive
+
+}
+main{
+  background: linear-gradient(to bottom, #86b3db, black 50%);
+  width: 1225px;
+  padding: 50px
+}
+a{
+  color: #3a7eba
+
+}
+Table{
+  border-color: black;
+
+}
+#footer{
+  background-color: #256298;
+  height: 50px;
+  font-style: italic
+}
+.Firma{
+  color: #000000
+
+}
+
+.Distinto{
+  background-color:#7caab1;
+  padding: 50px;
+  border-radius: 80px;
+}
+a:hover{
+  color: #4395dd;
+  border-radius: 20px;
+  padding:15px;
+
+}
+body{
+  background-color:#83c6ff
+}
+
+.Imagenes{
+
+  margin: 55px;
+  width:350px;
+  height: 450px
+
+
+}
+thead{
+  background-color:   black;
+
+}
+table{
+  background-color: black
+}
+.Botones{
+  background-color: #f9f9fc;
+  border-radius: 20px;
+  padding:15px
+}
+.formulario {
+  font-style: oblique
+}
